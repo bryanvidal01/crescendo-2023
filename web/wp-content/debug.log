@@ -1,0 +1,711 @@
+[01-Sep-2022 11:04:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#8 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:04:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:05:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:05:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:05:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:05:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:05:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/edit.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 11:05:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _x(), 1 passed in /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php on line 6 and at least 2 expected in /var/www/html/wp-includes/l10n.php:391
+Stack trace:
+#0 /var/www/html/wp-content/themes/oreima-immeubles/inc/datatypes.php(6): _x('\xC3\x89quipements')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): wpm_custom_post_type('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(546): do_action('init')
+#5 /var/www/html/wp-config.php(139): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/index.php(17): require('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-includes/l10n.php on line 391
+[01-Sep-2022 14:44:41 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:41 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:44:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 14:44:41 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:44:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 14:44:42 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:42 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:44:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 14:44:42 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:44:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 14:44:47 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:47 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:44:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 14:44:47 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:44:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 14:44:49 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:49 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:44:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 14:44:49 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:44:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 14:44:55 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:44:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 14:44:59 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:44:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:44:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 14:45:05 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:45:05 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:45:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:45:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 14:45:05 UTC] PHP Warning:  filemtime(): stat failed for /var/www/html/wp-content/themes/oreima-immeubles/assets/css/app.css in /var/www/html/wp-content/themes/oreima-immeubles/functions.php on line 42
+[01-Sep-2022 14:45:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1296
+[01-Sep-2022 14:45:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/oreima-immeubles/functions.php:42) in /var/www/html/wp-includes/pluggable.php on line 1299
+[01-Sep-2022 15:36:25 UTC] PHP Deprecated:  wp_make_content_images_responsive est <strong>obsolète</strong> depuis la version 5.5.0 ! Utilisez wp_filter_content_tags() à la place. in /var/www/html/wp-includes/functions.php on line 4777
+[01-Sep-2022 15:36:38 UTC] PHP Deprecated:  wp_make_content_images_responsive est <strong>obsolète</strong> depuis la version 5.5.0 ! Utilisez wp_filter_content_tags() à la place. in /var/www/html/wp-includes/functions.php on line 4777
+[01-Sep-2022 15:36:39 UTC] PHP Deprecated:  wp_make_content_images_responsive est <strong>obsolète</strong> depuis la version 5.5.0 ! Utilisez wp_filter_content_tags() à la place. in /var/www/html/wp-includes/functions.php on line 4777
+[01-Sep-2022 15:36:40 UTC] PHP Deprecated:  wp_make_content_images_responsive est <strong>obsolète</strong> depuis la version 5.5.0 ! Utilisez wp_filter_content_tags() à la place. in /var/www/html/wp-includes/functions.php on line 4777
+[01-Sep-2022 15:36:40 UTC] PHP Deprecated:  wp_make_content_images_responsive est <strong>obsolète</strong> depuis la version 5.5.0 ! Utilisez wp_filter_content_tags() à la place. in /var/www/html/wp-includes/functions.php on line 4777
+[01-Sep-2022 15:36:40 UTC] PHP Deprecated:  wp_make_content_images_responsive est <strong>obsolète</strong> depuis la version 5.5.0 ! Utilisez wp_filter_content_tags() à la place. in /var/www/html/wp-includes/functions.php on line 4777
+[01-Sep-2022 15:36:40 UTC] PHP Deprecated:  wp_make_content_images_responsive est <strong>obsolète</strong> depuis la version 5.5.0 ! Utilisez wp_filter_content_tags() à la place. in /var/www/html/wp-includes/functions.php on line 4777
+[01-Sep-2022 15:36:41 UTC] PHP Deprecated:  wp_make_content_images_responsive est <strong>obsolète</strong> depuis la version 5.5.0 ! Utilisez wp_filter_content_tags() à la place. in /var/www/html/wp-includes/functions.php on line 4777

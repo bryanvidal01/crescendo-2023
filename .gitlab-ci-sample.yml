@@ -1,0 +1,28 @@
+# Edit this file in order to update preprod and prod sites when you push files on gitlab
+
+# define varibales
+# SSH_KEY / PP_SSH_USER / PP_SSH_SERVER / PP_DOCROOT / PROD_SSH_USER / PROD_SSH_SERVER / PROD_DOCROOT
+# in gitlab : settings > CI / CD > Variables
+
+# before_script:
+#   - apt-get update -qq
+#   - apt-get install -qq git
+#   - 'which ssh-agent || ( apt-get install -qq openssh-client )'
+#   - eval $(ssh-agent -s)
+#   - ssh-add <(echo "$SSH_KEY")
+#   - mkdir -p ~/.ssh
+#   - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+#
+# deploy_preprod:
+#   stage: deploy
+#   script:
+#     - ssh "$PP_SSH_USER"@"$PP_SSH_SERVER" "cd "$PP_DOCROOT" && git checkout preprod && git pull origin preprod && exit"
+#   only:
+#     - preprod
+#
+# deploy_production:
+#   stage: deploy
+#   script:
+#     - ssh "$PROD_SSH_USER"@"$PROD_SSH_SERVER" "cd "$PROD_DOCROOT" && git checkout master && git pull origin master && exit"
+#   only:
+#     - master

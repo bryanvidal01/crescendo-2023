@@ -1,0 +1,40 @@
+.container-card{
+  background: #FFF;
+  display: block;
+
+  &.has-image{
+    padding: 2vw;
+    box-sizing: border-box;
+
+    .title{
+      color: #EB5C3F;
+      margin-top: 5vw;
+    }
+
+    .container-info-card{
+      min-height: 26vw;
+    }
+
+  }
+
+  .container-info-card{
+    background: #FFF;
+    padding: 2vw;
+    height: 100%;
+    position: relative;
+    min-height: 30vw;
+    box-sizing: border-box;
+  }
+  .picto{
+    margin-bottom: 1.5vw;
+    img{
+      width: 5vw;
+    }
+  }
+
+  .title{
+    font-size: 2.2vw;
+    line-height: 2.6vw;
+    margin-bottom: 1vw;
+  }
+}

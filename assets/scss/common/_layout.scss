@@ -1,0 +1,121 @@
+body{
+  background-color: #1A1A1A;
+  color: #FFF;
+  font-family: 'mabry_proregular';
+  letter-spacing: -.09em;
+}
+
+a{
+  color: #FFF;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.text-right{
+  text-align: right;
+}
+
+.round-hand{
+  position: relative;
+  display: inline-block;
+  font-size: 1.1vw;
+  &:before{
+    content: '';
+    width: 130%;
+    height: 200%;
+    top: 50%;
+    transform: translate(-10%, -50%);
+    position: absolute;
+    background: url('../img/commons/round-hand.svg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+}
+
+.t1{
+  font-size: 6.4vw;
+  line-height: 5.5vw;
+
+  span{
+    opacity: .1;
+  }
+
+  strong{
+    position: relative;
+    svg{
+      content: '';
+      width: 100%;
+      height: 50%;
+      top: 80%;
+      left: 0;
+      position: absolute;
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+    }
+  }
+}
+
+p{
+  font-size: 1.2vw;
+}
+
+a{
+  &:hover{
+    color: #FFF;
+  }
+}
+
+
+.container-tuto{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: #1A1A1A;
+  z-index: 5;
+
+
+
+  .content-tuto{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+
+    p{
+      font-size: 1.5vw
+    }
+
+    text-align: center;
+    img{
+      width: 15%;
+      margin-bottom: 1vw;
+    }
+    
+    a{
+      margin-top: 3vw;
+    }
+  }
+}
+
+
+.line {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 0;
+  stroke-width: 0;
+  animation: dash 1.5s ease-in-out forwards;
+  animation-delay: .1s;
+}
+
+@keyframes dash {
+  0% {
+    stroke-dashoffset: 1200;
+    stroke-width: 2;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    stroke-width: 2;
+  }
+}

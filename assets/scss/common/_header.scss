@@ -1,0 +1,23 @@
+header{
+  position: absolute;
+  z-index: 300;
+  padding: 2vw;
+  width: 100%;
+  .logo{
+    width: 10vw;
+  }
+  .griff{
+    width: 1.5vw;
+  }
+  ul{
+    padding-right: 1vw;
+    li{
+      display: inline-block;
+      padding-left: 2vw;
+      a{
+        font-size: 1.2vw;
+        text-decoration: none;
+      }
+    }
+  }
+}
